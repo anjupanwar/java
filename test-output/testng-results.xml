@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-23T10:48:22Z" name="Default suite" finished-at="2022-09-23T10:48:23Z" duration-ms="101">
+    <groups>
+    </groups>
+    <test started-at="2022-09-23T10:48:22Z" name="Default test" finished-at="2022-09-23T10:48:23Z" duration-ms="101">
+      <class name="cUcpr.Search">
+        <test-method signature="I_visit_the_website_as_a_guest_user()[pri:1, instance:cUcpr.Search@61710c6]" started-at="2022-09-23T16:18:22Z" name="I_visit_the_website_as_a_guest_user" finished-at="2022-09-23T16:18:22Z" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- I_visit_the_website_as_a_guest_user -->
+        <test-method signature="I_select_the_books_option_from_the_dropdown()[pri:2, instance:cUcpr.Search@61710c6]" started-at="2022-09-23T16:18:22Z" name="I_select_the_books_option_from_the_dropdown" finished-at="2022-09-23T16:18:22Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- I_select_the_books_option_from_the_dropdown -->
+        <test-method signature="I_click_on_Search_icon()[pri:3, instance:cUcpr.Search@61710c6]" started-at="2022-09-23T16:18:22Z" name="I_click_on_Search_icon" finished-at="2022-09-23T16:18:22Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- I_click_on_Search_icon -->
+        <test-method signature="I_should_see_the_books_page_loaded()[pri:4, instance:cUcpr.Search@61710c6]" started-at="2022-09-23T16:18:22Z" name="I_should_see_the_books_page_loaded" finished-at="2022-09-23T16:18:22Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- I_should_see_the_books_page_loaded -->
+        <test-method signature="I_should_see_Books_at_Amazon_as_heading()[pri:5, instance:cUcpr.Search@61710c6]" started-at="2022-09-23T16:18:22Z" name="I_should_see_Books_at_Amazon_as_heading" finished-at="2022-09-23T16:18:22Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- I_should_see_Books_at_Amazon_as_heading -->
+        <test-method signature="I_should_not_see_other_category_products()[pri:6, instance:cUcpr.Search@61710c6]" started-at="2022-09-23T16:18:22Z" name="I_should_not_see_other_category_products" finished-at="2022-09-23T16:18:23Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- I_should_not_see_other_category_products -->
+        <test-method signature="I_select_the_Baby_option_from_the_dropdown()[pri:7, instance:cUcpr.Search@61710c6]" started-at="2022-09-23T16:18:23Z" name="I_select_the_Baby_option_from_the_dropdown" finished-at="2022-09-23T16:18:23Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- I_select_the_Baby_option_from_the_dropdown -->
+        <test-method signature="I_should_see_the_Baby_page_loaded()[pri:8, instance:cUcpr.Search@61710c6]" started-at="2022-09-23T16:18:23Z" name="I_should_see_the_Baby_page_loaded" finished-at="2022-09-23T16:18:23Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- I_should_see_the_Baby_page_loaded -->
+        <test-method signature="I_should_see_The_baby_store_as_heading()[pri:9, instance:cUcpr.Search@61710c6]" started-at="2022-09-23T16:18:23Z" name="I_should_see_The_baby_store_as_heading" finished-at="2022-09-23T16:18:23Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- I_should_see_The_baby_store_as_heading -->
+      </class> <!-- cUcpr.Search -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
